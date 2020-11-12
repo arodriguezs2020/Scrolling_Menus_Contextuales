@@ -17,6 +17,7 @@
         android:textStyle="bold" />
 
         <ScrollView
+            android:id="@+id/scrolling"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_below="@id/article_heading">

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/context_Shop"
+        android:orderInCategory="10"
+        android:icon="@drawable/shop2"
+        android:title="Shop"/>
+
+    <item android:id="@+id/context_Info"
+        android:orderInCategory="20"
+        android:icon="@drawable/info2"
+        android:title="Informacion"/>
+
+    <item android:id="@+id/context_Favorite"
+        android:orderInCategory="30"
+        android:icon="@drawable/favorite2"
+        android:title="Favorites"/>
+
+</menu>
